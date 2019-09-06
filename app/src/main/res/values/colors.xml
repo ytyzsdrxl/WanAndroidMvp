@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="theme_light_blue">#485fa3</color>
+    <color name="white">#ffffffff</color>
+    <color name="theme_blue">#202d4f</color>
+    <color name="transparent">#00000000</color>
+    <color name="gray">#d6d6d6</color>
+    <color name="deepgray">#868686</color>
+    <color name="color_333333">#333333</color>
+    <color name="red">#ff3b30</color>
+    <color name="line_gray">#f1f1f1</color>
+    <color name="black">#000000</color>
+    <color name="money_text_gray">#99ffffff</color>
+    <color name="myaccount_text">#525f66</color>
+    <color name="union_login_register_border">#7c88ac</color>
+    <color name="lightblack">#ff202020</color>
+
+
+    <color name="pale_turquoise1">#b2fcfc</color>
+    <color name="floatButton">#00b8d4</color>
+
+    <color name="app_bg" tools:ignore="MissingDefaultResource">#f4f9fa</color>
+</resources>

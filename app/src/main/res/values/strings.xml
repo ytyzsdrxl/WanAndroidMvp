@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WanAndroidMvp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab1_text">主页</string>
+    <string name="tab2_text">热搜</string>
+    <string name="tab3_text">知识</string>
+    <string name="tab4_text">大牛</string>
+    <string name="article">Article</string>
+</resources>
